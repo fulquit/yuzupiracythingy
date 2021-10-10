@@ -9,6 +9,7 @@ Install yuzu from https://yuzu-emu.org/downloads/. After you've done that, you c
 When you launch yuzu for the first time it will show an error of missing components. To fix that, you'll need to get the prod.keys file which you can get from here
 
 OG Link: https://codebeautify.org/base64-decode?input=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLU5uZHBIZTBJZWN2TFh1X1lZWERHQl9hSDNvYkhRWkkvdmlldz91c3A9c2hhcmluZw== (dead)
+
 Mirror: https://drive.google.com/file/d/16RPCsmTWgnwRANJTQcaRi-ORgApFER_j/view?usp=sharing
 
 Once you install the prod.keys file, open yuzu (you will still get the error for now) and go to the top left corner and click on "file" and then "Open yuzu Folder". It will open a folder, make a folder and name it "keys" and put the prod.keys file on there. Restart yuzu and you shouldn't get the error (if you get the error again, you've done something wrong. Make sure you followed the steps and did it correctly!)
@@ -21,7 +22,9 @@ Open yuzu and go to the yuzu folder then nand\system\Contents\registered and pas
 Now you'll need your games. Where to get switch games? Well here is a list of a few websites that have switch games
 
 aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS5jb20vCgpodHRwczovL3d3dy56aXBlcnRvLmNvbS8KCmh0dHBzOi8vd3d3LnNvZnRjb2JyYS5jb20vCgpodHRwczovL25zd2dhbWUuY29tLw==
+
 Mirror: https://pastelink.net/torrjmy2
+
 (Paste the above link in https://www.base64decode.org and press decode to get real link!)
 
 There are a few file types of switch games NSP, XCI, NSZ etc. You should ONLY download NSP or XCI. NSZ won't work. So you might ask do i download NSP or XCI? Well its up to you, both are fine.
@@ -82,9 +85,13 @@ Disable Camera Motion Blur
 Disable Web Applet
 
 Here I'll just put links for people who aren't willing to read the whole thing
+
 Keys - https://drive.google.com/file/d/16RPCsmTWgnwRANJTQcaRi-ORgApFER_j/view?usp=sharing
+
 Firmware - aHR0cHM6Ly9kYXJ0aHN0ZXJuaWUubmV0L3N3aXRjaC1maXJtd2FyZXMv
+
 List of websites to get switch games from - aHR0cHM6Ly9ueGJyZXcuY29tLwoKaHR0cHM6Ly9uc3cydS5jb20vCgpodHRwczovL3d3dy56aXBlcnRvLmNvbS8KCmh0dHBzOi8vd3d3LnNvZnRjb2JyYS5jb20vCgpodHRwczovL25zd2dhbWUuY29tLw== or  https://pastelink.net/torrjmy2
+
 Shaders - https://docs.google.com/spreadsheets/d/1vFIQwLbbWBwdjxOVLNPvV4lv9E2kfmFSaWdSbmIh21M/edit?usp=sharing
 
 Put the above strings in https://www.base64decode.org to get real game
