@@ -1,3 +1,6 @@
+
+# Before following ANY of the links, use an adblocker. 
+
 # Complete guide for maximum performance on Yuzu + Download links for Keys, Firmware, Switch Games and Shaders
 ### Hi and welcome! This [subreddit](https://www.reddit.com/r/NewYuzuPiracy/) is about pirating Yuzu as you can guess from the title. In this post, we'll help you to get yuzu up and running. Please read the post till the end to maximize performance. Links for keys, firmware, switch games and shaders at the end of the post.
 
